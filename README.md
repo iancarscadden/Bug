@@ -1,4 +1,3 @@
-
 <img width="800" alt="IMG_6610" src="https://github.com/user-attachments/assets/49a65ceb-85a6-4446-b333-78071e0c541c" />
 
 # Bug
@@ -36,3 +35,11 @@ WebSocket server processes incoming PCM audio streams with lazy initialization, 
 ---
 
 Built with ESP32-S3, Swift, Bluetooth Low Energy, WebSockets, and speech-to-text APIs.
+
+## App Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/46005dc0-8d2f-4c71-8028-c1eab5fcd8e1" alt="Screenshot 1" width="250" style="border-radius: 20px; margin: 0 10px;"/>
+  <img src="https://github.com/user-attachments/assets/62e819e2-6a40-47bd-a6bd-65c66b28a5e9" alt="Screenshot 2" width="250" style="border-radius: 20px; margin: 0 10px;"/>
+  <img src="https://github.com/user-attachments/assets/990db2aa-8f87-4137-933c-2e5a9ebd1b6c" alt="Screenshot 3" width="250" style="border-radius: 20px; margin: 0 10px;"/>
+</p>
