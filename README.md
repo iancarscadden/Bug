@@ -2,6 +2,7 @@
 
 <img width="800" alt="IMG_6610" src="https://github.com/user-attachments/assets/49a65ceb-85a6-4446-b333-78071e0c541c" />
 
+
 A portable audio capture device paired with an iOS app for hands-free recording and AI-powered study assistance.
 
 ## Overview
